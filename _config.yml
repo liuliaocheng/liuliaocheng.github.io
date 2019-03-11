@@ -3,14 +3,14 @@ name: LessIs More
 email: liuliaocheng@sina.cn
 author: ZealerDrm
 url: http://liuliaocheng.github.io 
-resume_site: http://www.liushuqian.me
+resume_site: http://liushuqian.me
 github: https://github.com/liuliaocheng/
 baseurl: ''
 gems: [jekyll-paginate]
 
-description: Actually, less is more!
+description: 生命中最难的阶段不是没人懂你，而是你不懂你自己
 meta_description: 个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: It's our wits that make us men.
+motto: 不信邪的人
 banner: 学而不思则罔，思而不学则殆。
 
 #permalink: /:categories/:year/:month/:day/:title/
