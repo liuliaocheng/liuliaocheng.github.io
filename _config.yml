@@ -11,8 +11,8 @@ gems: [jekyll-paginate]
 description: 生命中最难的阶段不是没人懂你，而是你不懂你自己
 #meta_description: 个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
 meta_description: 永远年轻，永远热泪盈眶
-motto: 今天很残酷，明天更残酷，后天会很美好，但绝大多数人都死在明天晚上
-banner: 好记性不如烂笔头
+motto: 好记性不如烂笔头
+banner: 今天很残酷，明天更残酷，后天会很美好，但绝大多数人都死在明天晚上。
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
