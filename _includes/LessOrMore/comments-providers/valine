@@ -14,7 +14,8 @@
             el: '#vcomments',
 			appId: 'Yj6dnyaSssAkSnq4hYMsbBtn-gzGzoHsz',
 			appKey: 'xTRx5dGuqTcfoltuY7rIJg7F',
-			lang: 'zh-cn'
+			lang: 'zh-cn',
+			placeholder: '来说两句吧...'
         })
     </script>
 </body>
