@@ -29,7 +29,7 @@ markdown: kramdown
 
 FB:
   comments :
-    provider : wyy
+    provider : valine
     #duoshuo:
     #    short_name : ！！！
     #disqus :

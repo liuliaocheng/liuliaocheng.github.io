@@ -26,7 +26,10 @@ WELEN-博客
 
 Dan Povey's homepage
 =====================
-Kaldi工具开发者主页
-[Dan Povey's homepage](http://danielpovey.com/kaldi-lectures.html)
+[Kaldi工具开发者主页](http://danielpovey.com/)
+
+YIFEI的博客
+=====================
+[YIFEI的博客](http://taowusheng.cn/)
 
 
