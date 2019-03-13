@@ -13,7 +13,8 @@
         new Valine({
             el: '#vcomments',
 			appId: 'Yj6dnyaSssAkSnq4hYMsbBtn-gzGzoHsz',
-			appKey: 'xTRx5dGuqTcfoltuY7rIJg7F'
+			appKey: 'xTRx5dGuqTcfoltuY7rIJg7F',
+			lang: 'zh-cn'
         })
     </script>
 </body>
