@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  实习2天
-date:   2019-06-19 12:25:00 +0800
+title:  实习-面试
+date:   2019-06-17 12:25:00 +0800
 categories: 每日一“剂”
 tag: GASS实习
 ---
